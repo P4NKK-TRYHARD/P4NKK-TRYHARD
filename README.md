@@ -1,4 +1,4 @@
-## 👨‍💻 &lt;Developer Profile /&gt;
+## 🚀 System Overview
 - 🔭 I’m currently working on **Sentinel, Zaroz and Lumen**
 - 🤖 I’m a **Discord Bot Developer** and **Student Developer**
 - ⚡ In my free time, I love building useful tools and applications
