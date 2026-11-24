@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.svg" alt="P4NKK_TRYHARD · Founder @ RobAlert · DAM student" width="100%"></p>
+<p align="center"><img src="pankky-banner.svg" alt="PANKKY · Founder @ RobAlert · DAM student" width="100%"></p>
 
 <p align="center">
 <a href="https://www.robalert.com"><img src="https://img.shields.io/badge/Founder-RobAlert-e5383b?style=for-the-badge&labelColor=0c0a14" alt="Founder of RobAlert"></a>
