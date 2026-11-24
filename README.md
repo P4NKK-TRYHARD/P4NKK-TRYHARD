@@ -76,4 +76,4 @@
 
 <br>
 
-<p align="center"><a href="https://www.robalert.com"><img src="robalert-banner.svg" alt="RobAlert: the live theft map of Spain" width="60%"></a></p>
+<p align="center"><a href="https://www.robalert.com"><img src="robalert-strip.svg" alt="RobAlert: the live theft map of Spain" width="85%"></a></p>
