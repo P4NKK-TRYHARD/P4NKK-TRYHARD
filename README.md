@@ -6,6 +6,8 @@
 <a href="https://discord.gg/cWgj6sTvad"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0a14" alt="Discord"></a>
 </p>
 
+<p align="center"><a href="https://www.robalert.com"><img src="https://raw.githubusercontent.com/robalert/.github/main/profile/banner.svg" alt="RobAlert: the live theft map of Spain" width="100%"></a></p>
+
 ### 👾 About me
 
 - 🚨 **Founder of [RobAlert](https://www.robalert.com)**: the live map of thefts in Spain, built from neighbour reports and the day's news.
