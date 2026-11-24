@@ -1,27 +1,29 @@
-<p align="center"><img src="banner.svg" alt="P4NKK_TRYHARD · Founder @ RobAlert" width="100%"></p>
+<p align="center"><img src="banner.svg" alt="P4NKK_TRYHARD · Founder @ RobAlert · DAM student" width="100%"></p>
 
 <p align="center">
-<a href="https://www.robalert.com"><img src="https://img.shields.io/badge/Founder-RobAlert-e5383b?style=for-the-badge&labelColor=0c0a14" alt="Founder de RobAlert"></a>
+<a href="https://www.robalert.com"><img src="https://img.shields.io/badge/Founder-RobAlert-e5383b?style=for-the-badge&labelColor=0c0a14" alt="Founder of RobAlert"></a>
 <a href="https://zaroz.cloud"><img src="https://img.shields.io/badge/Zaroz-zaroz.cloud-a78bfa?style=for-the-badge&labelColor=0c0a14" alt="Zaroz"></a>
-<a href="https://discord.gg/cWgj6sTvad"><img src="https://img.shields.io/badge/Discord-Únete-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0a14" alt="Discord"></a>
+<a href="https://discord.gg/cWgj6sTvad"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0a14" alt="Discord"></a>
 </p>
 
-### 👾 Sobre mí
+### 👾 About me
 
-- 🚨 **Founder de [RobAlert](https://www.robalert.com)**: el mapa de robos de España, con avisos de vecinos y noticias del día.
-- 🔭 Ahora mismo con **RobAlert**, **Sentinel**, **Zaroz** y **Lumen**.
-- 🤖 Desarrollador de **bots de Discord**, webs y herramientas útiles.
-- 🛡️ Formado en **ciberseguridad** e **IT** con Cisco Networking Academy.
-- ⚡ Construyo rápido con **IA**: Claude Code, Gemini y ChatGPT.
+- 🚨 **Founder of [RobAlert](https://www.robalert.com)**: the live map of thefts in Spain, built from neighbour reports and the day's news.
+- 🎓 Studying **DAM** (Multiplatform Application Development).
+- 🔭 Currently working on **RobAlert**, **Sentinel**, **Zaroz** and **Lumen**.
+- 🤖 I build **Discord bots**, websites and useful tools.
+- 🛡️ Trained in **cybersecurity** and **IT** with Cisco Networking Academy.
+- ⚡ I ship fast with **AI**: Claude Code, Gemini and ChatGPT.
 
-### 🎓 Formación
+### 🎓 Education & certifications
 
 <p>
+<img src="https://img.shields.io/badge/DAM_(studying)-Multiplatform_App_Development-7c3aed?style=for-the-badge&logo=android&logoColor=white" alt="DAM: Multiplatform Application Development (in progress)">
 <img src="https://img.shields.io/badge/Cisco-IT_Essentials-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IT Essentials">
 <img src="https://img.shields.io/badge/Cisco-Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity">
 </p>
 
-### 🧠 IA con la que trabajo
+### 🧠 AI I work with
 
 <p>
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
@@ -29,7 +31,7 @@
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
 </p>
 
-### 💻 Tecnologías
+### 💻 Tech stack
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -55,19 +57,19 @@
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
 </p>
 
-### 📊 Estadísticas
+### 📊 Stats
 
 <p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=P4NKK-TRYHARD&show_icons=true&hide_border=true&count_private=true&bg_color=0c0a14&title_color=c4b5fd&icon_color=e879f9&text_color=ddd6fe&ring_color=a78bfa&locale=es" alt="Estadísticas de GitHub">
-<img height="165" src="https://streak-stats.demolab.com?user=P4NKK-TRYHARD&hide_border=true&background=0c0a14&ring=a78bfa&fire=e879f9&currStrNum=f5f3ff&sideNums=f5f3ff&currStrLabel=c4b5fd&sideLabels=c4b5fd&dates=8b5cf6&stroke=2e1065&locale=es" alt="Racha de contribuciones">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=P4NKK-TRYHARD&show_icons=true&hide_border=true&count_private=true&bg_color=0c0a14&title_color=c4b5fd&icon_color=e879f9&text_color=ddd6fe&ring_color=a78bfa" alt="GitHub stats">
+<img height="165" src="https://streak-stats.demolab.com?user=P4NKK-TRYHARD&hide_border=true&background=0c0a14&ring=a78bfa&fire=e879f9&currStrNum=f5f3ff&sideNums=f5f3ff&currStrLabel=c4b5fd&sideLabels=c4b5fd&dates=8b5cf6&stroke=2e1065" alt="Contribution streak">
 </p>
 
-### 🌐 Dónde encontrarme
+### 🌐 Find me
 
 <p>
 <a href="https://twitch.tv/xlbluebalalx941"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 <a href="https://youtube.com/@p4nkk_tryhard"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://discord.gg/cWgj6sTvad"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="mailto:soyantiphising@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
-<a href="https://paypal.me/losmagosrp"><img src="https://img.shields.io/badge/Apóyame-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Apóyame en PayPal"></a>
+<a href="https://paypal.me/losmagosrp"><img src="https://img.shields.io/badge/Support_me-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support me on PayPal"></a>
 </p>
