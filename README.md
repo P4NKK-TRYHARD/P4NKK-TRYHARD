@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/DAM_(studying)-Multiplatform_App_Development-7c3aed?style=for-the-badge&logo=android&logoColor=white" alt="DAM: Multiplatform Application Development (in progress)">
 <img src="https://img.shields.io/badge/Cisco-IT_Essentials-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IT Essentials">
 <img src="https://img.shields.io/badge/Cisco-Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity">
+<img src="https://img.shields.io/badge/Python-Santander_Open_Academy-EC0000?style=for-the-badge&logo=python&logoColor=white" alt="Python · Santander Open Academy">
+<img src="https://img.shields.io/badge/Google-AI_%26_Productivity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google · AI and Productivity">
 </p>
 
 ### 🧠 AI I work with
