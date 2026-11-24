@@ -1,33 +1,73 @@
-## 🚀 System Overview
-- 🔭 I’m currently working on **Sentinel, Zaroz and Lumen**
-- 🤖 I’m a **Discord Bot Developer** and **Student Developer**
-- ⚡ In my free time, I love building useful tools and applications
+<p align="center"><img src="banner.svg" alt="P4NKK_TRYHARD · Founder @ RobAlert" width="100%"></p>
 
+<p align="center">
+<a href="https://www.robalert.com"><img src="https://img.shields.io/badge/Founder-RobAlert-e5383b?style=for-the-badge&labelColor=0c0a14" alt="Founder de RobAlert"></a>
+<a href="https://zaroz.cloud"><img src="https://img.shields.io/badge/Zaroz-zaroz.cloud-a78bfa?style=for-the-badge&labelColor=0c0a14" alt="Zaroz"></a>
+<a href="https://discord.gg/cWgj6sTvad"><img src="https://img.shields.io/badge/Discord-Únete-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0a14" alt="Discord"></a>
+</p>
 
-## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xlbluebalalx941) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@p4nkk_tryhard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soyantiphising@proton.me) 
+### 👾 Sobre mí
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=P4NKK-TRYHARD&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=P4NKK-TRYHARD&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=P4NKK-TRYHARD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🚨 **Founder de [RobAlert](https://www.robalert.com)**: el mapa de robos de España, con avisos de vecinos y noticias del día.
+- 🔭 Ahora mismo con **RobAlert**, **Sentinel**, **Zaroz** y **Lumen**.
+- 🤖 Desarrollador de **bots de Discord**, webs y herramientas útiles.
+- 🛡️ Formado en **ciberseguridad** e **IT** con Cisco Networking Academy.
+- ⚡ Construyo rápido con **IA**: Claude Code, Gemini y ChatGPT.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=P4NKK-TRYHARD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🎓 Formación
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+<img src="https://img.shields.io/badge/Cisco-IT_Essentials-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IT Essentials">
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity">
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=P4NKK-TRYHARD&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🧠 IA con la que trabajo
 
----
-[![](https://komarev.com/ghpvc/?username=P4NKK-TRYHARD&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+</p>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/losmagosrp) 
+### 💻 Tecnologías
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS">
+<br>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
+<br>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
+<img src="https://img.shields.io/badge/OVH-123F6D?style=flat-square&logo=ovh&logoColor=white" alt="OVH">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+</p>
+
+### 📊 Estadísticas
+
+<p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=P4NKK-TRYHARD&show_icons=true&hide_border=true&count_private=true&bg_color=0c0a14&title_color=c4b5fd&icon_color=e879f9&text_color=ddd6fe&ring_color=a78bfa&locale=es" alt="Estadísticas de GitHub">
+<img height="165" src="https://streak-stats.demolab.com?user=P4NKK-TRYHARD&hide_border=true&background=0c0a14&ring=a78bfa&fire=e879f9&currStrNum=f5f3ff&sideNums=f5f3ff&currStrLabel=c4b5fd&sideLabels=c4b5fd&dates=8b5cf6&stroke=2e1065&locale=es" alt="Racha de contribuciones">
+</p>
+
+### 🌐 Dónde encontrarme
+
+<p>
+<a href="https://twitch.tv/xlbluebalalx941"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+<a href="https://youtube.com/@p4nkk_tryhard"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://discord.gg/cWgj6sTvad"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="mailto:soyantiphising@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
+<a href="https://paypal.me/losmagosrp"><img src="https://img.shields.io/badge/Apóyame-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Apóyame en PayPal"></a>
+</p>
